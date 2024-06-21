@@ -1,5 +1,8 @@
 # MedPix-2.0
-MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications
+MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications.
+
+Below a description of Case_topic.json and Descriptions.json is provided.
+images folder contains all the images of the dataset, while in splitted_dataset folder, a split of the dataset is provided, please refer to /spiotted_dataset/README.md for further informations. 
 
 ### Case_topic.json
 Contains a list of JSON, each of these provide the information of a single clinical case.
