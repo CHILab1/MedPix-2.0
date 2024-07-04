@@ -1,6 +1,20 @@
 # MedPix-2.0
 MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications.
 
+Please cite our work as follows if you use MedPix 2.0 
+```
+@misc{siragusa2024medpix20comprehensivemultimodal,
+      title={MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications}, 
+      author={Irene Siragusa and Salvatore Contino and Massimo La Ciura and Rosario Alicata and Roberto Pirrone},
+      year={2024},
+      eprint={2407.02994},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2407.02994}, 
+}
+```
+
+
 Below a description of Case_topic.json and Descriptions.json is provided.
 images folder contains all the images of the dataset, while in splitted_dataset folder, a split of the dataset is provided, please refer to /splitted_dataset/README.md for further informations. 
 
