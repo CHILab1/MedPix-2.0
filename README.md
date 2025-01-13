@@ -3,10 +3,10 @@ MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applic
 
 Please cite our work as follows if you use MedPix 2.0 
 ```
-@misc{siragusa2024medpix20comprehensivemultimodal,
-      title={MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications}, 
+@misc{siragusa2025medpix20comprehensivemultimodal,
+      title={MedPix 2.0: A Comprehensive Multimodal Biomedical Data set for Advanced AI Applications with Retrieval Augmented Generation and Knowledge Graphs}, 
       author={Irene Siragusa and Salvatore Contino and Massimo La Ciura and Rosario Alicata and Roberto Pirrone},
-      year={2024},
+      year={2025},
       eprint={2407.02994},
       archivePrefix={arXiv},
       primaryClass={cs.DB},
