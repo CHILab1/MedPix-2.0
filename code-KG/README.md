@@ -5,13 +5,13 @@ Code for training and evaluation of DR-Minerva enhanced with knowledge graph
 
 File in this folder, listed according to their execution order:
 
-    - `gen_template_kg.py` for generating documents for KG creation 
-    - `gen_kg.py` for KG generation
-    - `gen-questions.py` for generating the QA pairs and answers
-    - `inference_KG.py` for inference the KG
-    - `evaluate-csv.py` for evaluate the obtained predictions
-    - `evaluate-csv-RAGAS.py` for evaluate the obtained predictions as RAGAS metrics
-    - `utils.py` for utility functions
+- `gen_template_kg.py` for generating documents for KG creation 
+- `gen_kg.py` for KG generation
+- `gen-questions.py` for generating the QA pairs and answers
+- `inference_KG.py` for inference the KG
+- `evaluate-csv.py` for evaluate the obtained predictions
+- `evaluate-csv-RAGAS.py` for evaluate the obtained predictions as RAGAS metrics
+- `utils.py` for utility functions
 
 Please cite our work as follows:
 
