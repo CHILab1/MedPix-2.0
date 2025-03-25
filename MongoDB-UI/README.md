@@ -1,8 +1,6 @@
 # MedPix 2.0
-MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications.
 
 MongoDB-UI interface for query MedPix 2.0 data set
-
 MongoDB installation is required
 
 ### mongoDB_creation.py
