@@ -4,10 +4,10 @@ MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applic
 ### images
 Folder with the images of the data set
 
-### images_overview.csv
+### images_overview.csv
 CSV file with info of the images in images folder
 
-### splitted_dataset folder
+### splitted_dataset folder
 Folder with splits of the data set.
 Refer to /splitted_dataset/README.md for further informations. 
 
