@@ -5,15 +5,15 @@ Code for training and evaluation of DR-Minerva
 
 File in this folder, listed according to their execution order:
 
-    - `RAG_construction.py` for building of the RAG module, as for template and vectorstore creation 
-    - `finetune-minerva.py` for fine-tuneìing textual encoder and generate lora adpters
-    - `merge_weights.py` for saving fine-tuned model and merges adapters
-    - `inference_rag_gen.py` for retrieving from vectorstore for subsequent inference
-    - `gen_dataset_ft_flamingo` for arranging dataset for Flamingo fine-tuning
-    - `train.py` for training for flamingo architecture
-    - `eval.py` for inference with flamingo + fine-tuned textual encoder
-    - `evaluate-code.py` for evaluate the obtained output in termes of accuracy
-    - `utils.py` for utility functions
+- `RAG_construction.py` for building of the RAG module, as for template and vectorstore creation 
+- `finetune-minerva.py` for fine-tuneìing textual encoder and generate lora adpters
+- `merge_weights.py` for saving fine-tuned model and merges adapters
+- `inference_rag_gen.py` for retrieving from vectorstore for subsequent inference
+- `gen_dataset_ft_flamingo` for arranging dataset for Flamingo fine-tuning
+- `train.py` for training for flamingo architecture
+- `eval.py` for inference with flamingo + fine-tuned textual encoder
+- `evaluate-code.py` for evaluate the obtained output in termes of accuracy
+- `utils.py` for utility functions
 
 Please cite our work as follows:
 
