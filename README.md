@@ -31,17 +31,13 @@ This repository is arranged as follows:
 ### MedPix-2-0 folder
 contains MedPix 2.0 data set
 
-
-### MongoDB-UI
+### MongoDB-UI
 contains the code for the User Interface to query the dataset loaded in MongoDB
 
-
-### code-DRMinerva
+### code-DRMinerva
 contains the code for DR-Minerva implementation
 
-
-### code-KG
+### code-KG
 contains the code for DR-Minerva with knowledge graph implementation
 
-
-Refer to README files in each folder for further information
+_Refer to README files in each folder for further information_
