@@ -10,7 +10,6 @@ File in this folder, listed according to their execution order:
 - `gen-questions.py` for generating the QA pairs and answers
 - `inference_KG.py` for inference the KG
 - `evaluate-csv.py` for evaluate the obtained predictions
-- `evaluate-csv-RAGAS.py` for evaluate the obtained predictions as RAGAS metrics
 - `utils.py` for utility functions
 
 Please cite our work as follows:
